@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SToDo</string>
+    <string name="add">\u2022</string>
+</resources>
